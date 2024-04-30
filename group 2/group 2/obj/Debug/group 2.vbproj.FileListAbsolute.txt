@@ -1,0 +1,47 @@
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\bin\Debug\group 2.exe.config
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\bin\Debug\group 2.exe
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\bin\Debug\group 2.pdb
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\bin\Debug\group 2.xml
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form1.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form10.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form2.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form3.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form4.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form5.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form6.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form7.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form8.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form9.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Resources.resources
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group 2.vbproj.GenerateResource.Cache
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group 2.exe
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group 2.xml
+c:\users\deped\documents\visual studio 2013\Projects\group 2\group 2\obj\Debug\group 2.pdb
+C:\Users\DepEd\Documents\Visual Studio 2013\Projects\group 2\group 2\obj\Debug\group_2.Form11.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\bin\Debug\group 2.exe.config
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\bin\Debug\group 2.exe
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\bin\Debug\group 2.pdb
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\bin\Debug\group 2.xml
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.vbproj.AssemblyReference.cache
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.vbproj.SuggestedBindingRedirects.cache
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form1.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form11.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form2.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form3.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form4.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form5.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form6.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form7.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Form9.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.Resources.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.vbproj.GenerateResource.cache
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.vbproj.CoreCompileInputs.cache
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.exe
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.xml
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.pdb
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.CONFIRMATION.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group_2.CHECKOUT.resources
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\bin\Debug\group 2.exe.manifest
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\bin\Debug\group 2.application
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.exe.manifest
+C:\Users\gabay\OneDrive\Desktop\group 2\group 2\obj\Debug\group 2.application
